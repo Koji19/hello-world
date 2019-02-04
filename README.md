@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-Bot here
+New Bot here
